@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../gulp-config-lib/.idea/gulp-config-lib.iml" filepath="$PROJECT_DIR$/../gulp-config-lib/.idea/gulp-config-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gulp-config-tool/.idea/gulp-config-tool.iml" filepath="$PROJECT_DIR$/../gulp-config-tool/.idea/gulp-config-tool.iml" />
     </modules>
   </component>
 </project>
