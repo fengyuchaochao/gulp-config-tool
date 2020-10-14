@@ -12,6 +12,7 @@
     "lib",
     "bin"
   ],
+  "main": "lib/index.js",
   "bin": "bin/cli.js",
   "dependencies": {
     "@babel/core": "^7.5.5",
